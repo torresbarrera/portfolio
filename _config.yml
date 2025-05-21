@@ -20,10 +20,11 @@ author: Rodrigo Torres
 ###############################################
 
 navbar-links:
-  Home
-  Resume
-  Projects
-  Contact
+  Home: "aboutme"
+  Resume: "resume"
+  Projects: "projects" 
+ ## Contact: "contact"
+
 
 ################
 # --- Logo --- #
