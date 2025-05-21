@@ -5,11 +5,6 @@ title: Resume
 ---
 
 # Rodrigo Torres  
-**Business Analyst**  
-
-📞 (+852) 6064-8904 | 📧 torres.barrera8@gmail.com | 🔗 LinkedIn: torresbarrera | 📍 Sheung Wan, Hong Kong  
-
----
 
 ## PROFESSIONAL SUMMARY  
 Data-driven analytics professional with 4 years of experience in exploratory analysis, A/B testing, and customer segmentation. Proficient in SQL, Databricks, and data visualization tools to deliver actionable insights and improve decision-making processes. Adept at process optimization, leveraging tools and methodologies to enhance operational efficiency and business outcomes. Authorized to work in Hong Kong.
