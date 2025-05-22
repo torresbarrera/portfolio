@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About me
+title: About Me
 # subtitle: Why you'd want to go on a date with me
 ---
 
+Data Pro | Multinational Exp | Tech Innovator
 
 🌍 **Global Background**: Born in El Salvador, I've called Asia home for the past decade, currently thriving in Hong Kong.
   
