@@ -2,6 +2,7 @@
 layout: page
 title: HR Analytics Dashboard
 tools: [Power BI, DAX, HR Metrics]
+permalink: /projects/hr-analytics/
 ---
 
 <div class="project-header">
