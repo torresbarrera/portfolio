@@ -27,6 +27,13 @@ navbar-links:
 
  ## Contact: "contact"
 
+###############################################
+# --- baseurl config --- #
+###############################################
+
+baseurl: ""  # Empty if your site is at username.github.io
+url: "https://torresbarrera.github.io"  # Optional but recommended
+
 
 ################
 # --- Logo --- #
@@ -270,7 +277,7 @@ date_format: "%B %-d, %Y"
 timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+##permalink: /:year-:month-:day-:title/
 paginate: 5
 
 kramdown:
