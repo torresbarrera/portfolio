@@ -19,12 +19,10 @@ author: Rodrigo Torres
 # --- List of links in the navigation bar --- #
 ###############################################
 
-
 navbar-links:
   Home: "aboutme"
   Resume: "resume"
-  Projects: "projects"
-
+  Projects: "projects" 
  ## Contact: "contact"
 
 ###############################################
@@ -92,15 +90,6 @@ social-network-links:
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
 # rss-description: This website is a virtual proof that I'm awesome
-
-###########################
-# --- project page options --- #
-###########################
-
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
 
 ###########################
 # --- General options --- #
