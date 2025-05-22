@@ -19,13 +19,18 @@ author: Rodrigo Torres
 # --- List of links in the navigation bar --- #
 ###############################################
 
-
 navbar-links:
   Home: "aboutme"
   Resume: "resume"
-  Projects: "projects"
-
+  Projects: "projects" 
  ## Contact: "contact"
+
+###############################################
+# --- baseurl config --- #
+###############################################
+
+baseurl: ""  # Empty if your site is at username.github.io
+url: "https://torresbarrera.github.io"  # Optional but recommended
 
 
 ################
@@ -85,15 +90,6 @@ social-network-links:
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
 # rss-description: This website is a virtual proof that I'm awesome
-
-###########################
-# --- project page options --- #
-###########################
-
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
 
 ###########################
 # --- General options --- #
@@ -270,7 +266,7 @@ date_format: "%B %-d, %Y"
 timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+##permalink: /:year-:month-:day-:title/
 paginate: 5
 
 kramdown:
