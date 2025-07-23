@@ -29,7 +29,7 @@ navbar-links:
 # --- baseurl config --- #
 ###############################################
 
-baseurl: ""  # Empty if your site is at username.github.io
+baseurl: "/portfolio"  # Empty if your site is at username.github.io
 url: "https://torresbarrera.github.io"  # Optional but recommended
 
 
@@ -58,8 +58,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "torres.barrera8@gmail.com"
-  github: https://github.com/torresbarrera
-  linkedin: https://www.linkedin.com/in/torresbarrera/
+  github: torresbarrera
+  linkedin: torresbarrera
 
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
